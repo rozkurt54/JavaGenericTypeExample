@@ -1,0 +1,6 @@
+net/rozkurt/coursesexample/repositories/Course.class
+net/rozkurt/coursesexample/repositories/Repository.class
+net/rozkurt/coursesexample/CoursesExample.class
+net/rozkurt/coursesexample/repositories/BaseEntity.class
+net/rozkurt/coursesexample/repositories/CourseRepository.class
+net/rozkurt/coursesexample/repositories/Entity.class
